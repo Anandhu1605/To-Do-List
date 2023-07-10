@@ -81,7 +81,7 @@ form button:hover {
 
 .trash-btn, 
 .complete-btn {
-    color: white;
+    color: black;
     border: none;
     padding: 1rem;
     cursor: pointer;
@@ -89,13 +89,13 @@ form button:hover {
 }
 
 .complete-btn {
-    background: silver;
+    background: gray;
 }
 
 .trash-btn {
     border-top-right-radius: 1.75rem;
     border-bottom-right-radius: 1.75rem;
-    background: silver
+    background: gray
 }
 
 .todo-item {
